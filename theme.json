@@ -1,4 +1,5 @@
-"data": [
+{
+  "data": [
     {
       "nama": "MERAHPUTIH2 V372",
       "allpage": 763,
@@ -12,18 +13,6 @@
       "version": "DELTA YOWA v3.7.1",
       "png": "https://drive.google.com/uc?export=view&id=1LOeaccYpcjKSBlarGlebdvVhrNU-eJWp",
       "zip": "https://drive.google.com/uc?export=download&id=1SZsInvQu29BPf3caLa6BRAVdTva-HFAo"
-    },
-    {
-      "nama": "UMNG ",
-      "allpage": 763,
-      "preview": "https://github.com/NusantaraProjects/Themes/blob/main/UMNG%20.png?raw=true",
-      "urldrive": "https://github.com/NusantaraProjects/Themes/blob/main/UMNG%20.zip?raw=true",
-      "urltheme": "",
-      "thumbnail": 1011067,
-      "pembuat": "Fan Of  भगतसिंह 💪🏻",
-      "tanggal": "02 06 2021",
-      "isdrive": true,
-      "version": "DELTA YOWA v3.7.2",
-      "png": "https://drive.google.com/uc?export=view&id=1b6te7k0llCaXO2HdCRBM6-P5yRbcjXn7",
-      "zip": "https://drive.google.com/uc?export=download&id=1yzi70WJyTYxx9qPE1QYGeKnXRzGaLiG1"
-    }
+     }
+  ]
+}
