@@ -1,5 +1,33 @@
 {
   "data": [
+    {
+      "nama": "GREENTEAL",
+      "allpage": 763,
+      "preview": "https://drive.google.com/uc?export=view&id=109q24adnNOnRUWipTGwJ1BpDhiyXr1bH",
+      "urldrive": "https://drive.google.com/uc?export=download&id=170pLA0GOgFiyApGxKCP6mWG23zIwRECN",
+      "urltheme": "https://drive.google.com/uc?export=download&id=170pLA0GOgFiyApGxKCP6mWG23zIwRECN",
+      "thumbnail": 1214836,
+      "pembuat": "DELTALABS",
+      "tanggal": "11 10 2024",
+      "isdrive": true,
+      "version": "DELTA WA v6.5.2",
+      "png": "",
+      "zip": ""
+    },
+    {
+      "nama": "GREENTEAL V2",
+      "allpage": 763,
+      "preview": "https://drive.google.com/uc?export=view&id=17kcEXw06XjVeoEMTPyJrUjGVZIlXFK6l",
+      "urldrive": "https://drive.google.com/uc?export=download&id=1fv5xtSRwPjgzIdl5lCmq26lz0WD21gG1",
+      "urltheme": "https://drive.google.com/uc?export=download&id=1fv5xtSRwPjgzIdl5lCmq26lz0WD21gG1",
+      "thumbnail": 1321250,
+      "pembuat": "DELTALABS",
+      "tanggal": "11 10 2024",
+      "isdrive": true,
+      "version": "DELTA WA v6.5.2",
+      "png": "",
+      "zip": ""
+    },
     {"nama": "RedPool",
       "allpage": 763,
       "preview": "https://github.com/NusantaraProjects/Themes/blob/main/RedPool.png?raw=true",
